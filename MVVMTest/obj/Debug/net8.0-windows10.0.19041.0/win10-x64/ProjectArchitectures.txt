@@ -1,0 +1,1 @@
+C:\Users\jantoin\Documents\MVVMTest\Notes.csproj;x64
